@@ -14,7 +14,7 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>Web 30 is my fave!</h1>
+      <h1>Web 30 is absolutely my fave!</h1>
       <h2>
         Deployed with{" "}
         <a
